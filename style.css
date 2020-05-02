@@ -1,0 +1,28 @@
+body  { background-image: url('https://i.redd.it/nddw0kak6nq41.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  h1 {
+  background-image: url(https://www.unilink.it/wp-content/uploads/2018/08/Intelligenza-Artificiale.jpg) ;
+    color: rgb(112, 112, 112);
+    text-align:center;
+  font-size:80px
+  
+  }
+  
+  
+  
+  button{
+  font-size: 20px;
+    color: rgb(255, 255, 255);
+  border: 2px solid rgb(2, 58, 179);
+  border-radius: 50px;
+  width: 150px;
+  height: 50px; 
+  background-image: url(https://i.redd.it/nddw0kak6nq41.jpg) ;
+  
+  }
+  
+  
